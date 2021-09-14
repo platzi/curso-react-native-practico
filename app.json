@@ -2,7 +2,7 @@
   "expo": {
     "name": "pokedex",
     "slug": "pokedex",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
